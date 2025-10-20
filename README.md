@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Olá! Eu sou o Matheus Felipe Vieira
 
-<!--
-**Matheusmizu/Matheusmizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Analise e Desenvolvimento de Software na Facens
+Apaixonado por tecnologia sustentável, automação com Arduino e desenvolvimento .NET e Java
+Buscando oportunidades de estágio em programação e IoT
 
-Here are some ideas to get you started:
+Sobre mim
+Atualmente participando do Bootcamps na DIO, com foco em C# e .NET
+Tenho experiência com Java, Python, C#, JavaScript e APIs REST
+Desenvolvi um sistema automatizado de reaproveitamento de água da chuva com telhado verde usando Arduino e sensores inteligentes
+Gosto de aprender novas tecnologias e aplicá-las em projetos que façam diferença no mundo real
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tecnologias & Ferramentas
+Linguagens	       |         Frameworks	       |        Ferramentas	              |   Outros
+Java 	             |        Spring Boot        |       Git & GitHub               |	  Arduino 
+C#                 |        .NET Core          |   	   MySQL                      |	  Sustentabilidade 
+JavaScript         |                           |       VS Code / Visual Studio	  |   IoT 
+
+🌟 Projetos em Destaque
+
+
+
+
+📊 Estatísticas do GitHub
+<div align="center">
+
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusmizu&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusmizu&layout=compact&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Matheusmizu&theme=github-dark)
+
+</div>
+📫 Contato
+
+📧 E-mail: matheusfelipe.vieira@hotmail.com
+💼 LinkedIn: https://www.linkedin.com/in/-matheusvieira/

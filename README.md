@@ -13,8 +13,11 @@ Gosto de aprender novas tecnologias e aplicá-las em projetos que façam diferen
 🧰 Tecnologias & Ferramentas
 
 Linguagens	       |         Frameworks	       |        Ferramentas	              |   Outros
+
 Java 	             |        Spring Boot        |       Git & GitHub               |	  Arduino 
-C#                 |        .NET Core          |   	   MySQL                      |	  Sustentabilidade 
+
+C#                 |        .NET Core          |   	   MySQL                      |	  Sustentabilidade
+
 JavaScript         |                           |       VS Code / Visual Studio	  |   IoT 
 
 

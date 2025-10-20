@@ -16,10 +16,6 @@ Java 	             |        Spring Boot        |       Git & GitHub             
 C#                 |        .NET Core          |   	   MySQL                      |	  Sustentabilidade 
 JavaScript         |                           |       VS Code / Visual Studio	  |   IoT 
 
-🌟 Projetos em Destaque
-
-
-
 
 📊 Estatísticas do GitHub
 <div align="center">

@@ -11,6 +11,7 @@ Desenvolvi um sistema automatizado de reaproveitamento de água da chuva com tel
 Gosto de aprender novas tecnologias e aplicá-las em projetos que façam diferença no mundo real
 
 🧰 Tecnologias & Ferramentas
+
 Linguagens	       |         Frameworks	       |        Ferramentas	              |   Outros
 Java 	             |        Spring Boot        |       Git & GitHub               |	  Arduino 
 C#                 |        .NET Core          |   	   MySQL                      |	  Sustentabilidade 

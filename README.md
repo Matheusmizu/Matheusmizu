@@ -3,10 +3,9 @@
 Estudante de Análise e Desenvolvimento de Sistemas na Facens.
 
 Apaixonado por tecnologia sustentável, automação com Arduino e desenvolvimento .NET e Java.
-
 Buscando oportunidades de estágio em programação e IoT.
 
-Sobre mim
+Sobre mim:
 Atualmente participando do Bootcamps na DIO, com foco em C# e .NET
 Tenho experiência com Java, Python, C#, JavaScript e APIs REST
 Desenvolvi um sistema automatizado de reaproveitamento de água da chuva com telhado verde usando Arduino e sensores inteligentes

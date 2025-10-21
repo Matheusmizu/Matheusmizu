@@ -1,8 +1,10 @@
 👋 Olá! Eu sou o Matheus Felipe Vieira
 
 Estudante de Análise e Desenvolvimento de Sistemas na Facens.
-Apaixonado por tecnologia sustentável, automação com Arduino e desenvolvimento .NET e Java
-Buscando oportunidades de estágio em programação e IoT
+
+Apaixonado por tecnologia sustentável, automação com Arduino e desenvolvimento .NET e Java.
+
+Buscando oportunidades de estágio em programação e IoT.
 
 Sobre mim
 Atualmente participando do Bootcamps na DIO, com foco em C# e .NET
